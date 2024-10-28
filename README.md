@@ -21,9 +21,9 @@ Gender bias in language often reflects deep-rooted stereotypes. This project aim
 - Analyzes sentences and phrases to identify implicit and explicit gender bias.
 - Outputs metrics and visualizations to highlight gender bias patterns.
 
-## Installation
+## Algorithm overview
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/gender-bias-detection.git
-   cd gender-bias-detection
+### 1. Gender bias vector
+Visualization of a few words in Vietnamese including:"Men", "Women", "Literature", "Math", "Boy", "Girl", "Dress", "Punch"
+![image](https://github.com/user-attachments/assets/8e5bfeaa-0dda-44b3-b2e3-e51e4dafe667)
+
