@@ -1,6 +1,6 @@
 # Gender Bias Detection in Hindi and Vietnamese
 
-This project focuses on detecting gender bias in Hindi and Vietnamese texts, analyzing common stereotypes, and highlighting bias patterns within datasets. It leverages natural language processing techniques to identify gendered language and aims to raise awareness of linguistic biases in these languages.
+This project focuses on detecting gender bias in Vietnamese and Hindi texts, analyzing common stereotypes, and highlighting bias patterns within datasets. It leverages natural language processing techniques to identify gendered language and aims to raise awareness of linguistic biases in these languages.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This project focuses on detecting gender bias in Hindi and Vietnamese texts, ana
 
 ## Introduction
 
-Gender bias in language often reflects deep-rooted stereotypes. This project aims to detect such biases in Hindi and Vietnamese by identifying words, phrases, and patterns associated with gendered stereotypes. This tool can be used for educational purposes, data audits, and creating more inclusive NLP models.
+Gender bias in language often reflects deep-rooted stereotypes. This project aims to detect such biases in Vietnamese and Hindi by identifying words, phrases, and patterns associated with gendered stereotypes. This tool can be used for educational purposes, data audits, and creating more inclusive NLP models.
 
 ## Features
 
